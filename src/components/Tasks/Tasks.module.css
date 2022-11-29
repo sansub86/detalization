@@ -1,0 +1,3 @@
+.header thead > tr > th {
+    background: linear-gradient(to top, #e0f2ff, #b8e0ff) !important;
+}

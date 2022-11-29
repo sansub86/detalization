@@ -1,0 +1,17 @@
+export const excelColumns = [
+    {header: 'Год', key: 'year', width: 3.29},
+    {header: 'Месяц', key: 'month', width: 3.29},
+    {header: 'Номер абонента', key: 'phone', width: 12.71},
+    {header: 'Название абонента', key: 'name', width: 12.57},
+    {header: 'Дата звонка', key: 'call_date', width: 9},
+    {header: 'Время звонка', key: 'time_date', width: 7},
+    {header: 'Вызываемый номер', key: 'call_number', width: 11.14},
+    {header: 'Регион вызыв.номера', key: 'region', width: 41},
+    {header: 'Название вызыв.номера', key: 'region_name', width: 14},
+    {header: 'Длит-ть мин:сек', key: 'duration', width: 6},
+    {header: 'Платные секунды', key: 'payment_seconds', width: 6.43},
+    {header: 'Тип звонка', key: 'call_type', width: 5.14},
+    {header: 'Ответ абонента', key: 'user_answer', width: 11.43},
+    {header: 'Остаток в юнитах', key: 'balance_units', width: 7.43},
+    {header: 'Остаток в минутах', key: 'balance_minutes', width: 7.86},
+];

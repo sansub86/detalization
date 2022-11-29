@@ -1,0 +1,42 @@
+.answered{
+    background: chartreuse;
+}
+.ringing {
+    color: #d8d8d8;
+}
+.table thead > tr > th {
+    background: linear-gradient(to top, #e0f2ff, #b8e0ff) !important;
+    }
+.table .ant-table-tbody table > tr > td{
+    padding: 4px 8px;
+}
+.button{
+    flex-shrink: 0;
+}
+.navigation_panel{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 20px;
+}
+.navigation_panel .detalization_header{
+    font-weight: bold;
+    padding: 0 !important;
+
+}
+.navigation_panel .detalization_all{
+    padding: 0 !important;
+}
+.detalization_all span{
+    line-height: 30px;
+}
+.detalization_header span{
+    line-height: 30px;
+    font-size: 18px;
+}
+.modal_style{
+
+}
+.check_box_group {
+    display: flex;
+    flex-direction: column;
+}

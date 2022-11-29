@@ -1,0 +1,18 @@
+.navigation_panel{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 20px;
+}
+.navigation_panel tbody > tr > td {
+    padding-bottom: 5px !important;
+    padding-top: 5px;
+}
+.terminals_table .ant-table-tbody  tr  td{
+    border:1px  solid black;
+}
+.header thead > tr > th {
+    background: linear-gradient(to top, #e0f2ff, #b8e0ff) !important;
+}
+.button{
+    margin-right: 10px;
+}
